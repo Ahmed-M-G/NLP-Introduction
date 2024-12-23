@@ -16,3 +16,5 @@
 - Sentiment-Analysis
   - Rule-based sentiment with VADER
   - Pre-trained Transformer Model
+
+- Practical-Use-Case
